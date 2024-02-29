@@ -1,7 +1,3 @@
-
-/*
- *    MCreator note: This file will be REGENERATED on each build.
- */
 package net.pinne.pineapplepizzamos.init;
 
 import net.pinne.pineapplepizzamos.block.PineappleBlock;
