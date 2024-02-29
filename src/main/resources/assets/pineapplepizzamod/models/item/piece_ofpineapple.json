@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "pineapplepizzamod:item/pngwing.com_1"
+  }
+}

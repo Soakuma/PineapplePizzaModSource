@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "jungle"
+  ],
+  "features": "pineapplepizzamod:pineapple",
+  "step": "vegetal_decoration"
+}

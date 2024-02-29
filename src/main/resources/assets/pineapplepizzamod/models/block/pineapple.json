@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "pineapplepizzamod:block/pngwing.com",
+    "particle": "pineapplepizzamod:block/pngwing.com"
+  },
+  "render_type": "cutout"
+}

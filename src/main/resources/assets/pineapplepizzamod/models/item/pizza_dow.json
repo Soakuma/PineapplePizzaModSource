@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "pineapplepizzamod:item/pizza-hut-crust-pan-pizza-food-delivery-pizza-595babfc6543719e76db408e82b041b1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "pineapplepizzamod:sausage"
+    },
+    "b": {
+      "item": "pineapplepizzamod:cheese"
+    },
+    "c": {
+      "item": "pineapplepizzamod:pizza_dow"
+    }
+  },
+  "result": {
+    "item": "pineapplepizzamod:pizza",
+    "count": 1
+  }
+}

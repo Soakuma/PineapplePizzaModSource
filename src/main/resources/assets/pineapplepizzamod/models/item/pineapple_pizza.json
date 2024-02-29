@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "pineapplepizzamod:item/kindpng_4311959"
+  }
+}

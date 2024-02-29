@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:milk_bucket"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "minecraft:water_bucket"
+    },
+    "d": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "pineapplepizzamod:pizza_dow",
+    "count": 1
+  }
+}
